@@ -9,7 +9,6 @@ const ApplyleaveComponent = () => {
   };
   return (
     <>
-     {/* ankushRqR*/}
       <Layout />
       <section className="apply_leave">
         <div className="container">
