@@ -9,6 +9,7 @@ const ApplyleaveComponent = () => {
   };
   return (
     <>
+     {/* 1*/}
       <Layout />
       <section className="apply_leave">
         <div className="container">
